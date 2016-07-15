@@ -1,0 +1,151 @@
+<!DOCTYPE HTML>
+
+<html>
+<<<<<<< HEAD
+    <head>
+        <title>Durgesh Choudhary</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+        <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    </head>
+    <body class="is-loading">
+
+        <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Main -->
+            <section id="main">
+                <header>
+                    <span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+                    <h1>Durgesh Choudhary</h1>
+                    <p>Software Engineer | B.Tech & M.Tech IIT Delhi</p>
+                </header>
+
+
+                <hr />
+
+                I am a programmer and a dreamer. <br />
+
+                I have done my schooling from Sainik School Rewa (MP) and Graduation in Computer Science and Engineering from Indian Institute of Technology Delhi, which has added various traits to my personality from endurance, adaptability to strong passion for technology and problem solving.
+
+                <br />
+                <br />
+
+                I have done some work in ASP.NET using C# as code behind. I mostly work in Java and C++ while brushing up my skills in data structures and algorithms.
+
+                <br />
+                <br />
+
+
+                I am also always excited to work on new things and discuss new potential ideas which can solve new problems so feel free to reach me on social networks.
+
+                <br />
+
+                <hr />
+                <footer>
+                    <a href="https://twitter.com/itsmedurgesh" > <img src="assets/twitter.png"></a>
+                    <a href="https://www.facebook.com/d.choudhary241"><img src="assets/facebook.png"></a>
+                    <a href="https://www.quora.com/Durgesh-Choudhary"><img src="assets/quora.png"></a>
+                    <a href="https://in.linkedin.com/in/durgeshchoudhary"><img src="assets/linkedin.png"></a>
+
+                </footer>
+            </section>
+
+            <!-- Footer -->
+            <footer id="footer">
+                <ul class="copyright">
+                    <li>&copy; Durgesh Choudhary</li>
+                </ul>
+            </footer>
+
+        </div>
+
+        <!-- Scripts -->
+        <!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+        <script>
+if ('addEventListener' in window) {
+    window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+    document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+}
+        </script>
+
+    </body>
+=======
+	<head>
+		<title>Durgesh Choudhary</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+							<h1>Durgesh Choudhary</h1>
+							<p>Software Engineer | B.Tech & M.Tech IIT Delhi</p>
+						</header>
+						
+						
+						<hr />
+						
+						I am a programmer and a dreamer. <br />
+
+						I have done my schooling from Sainik School Rewa (MP) and Graduation in Computer Science and Engineering from Indian Institute of Technology Delhi, which has added various dimensions to my personality like endurance, adaptability, good team spirit, strong passion for technology, and programming and problem solving.
+
+						<br />
+						<br />
+
+						I have done some work in ASP.NET using C# as code behind. I mostly work in Java and C++ while brushing up my skills in data structures.
+
+						<br />
+						<br />
+
+						
+						I am also always excited to work on new things and discuss potential ideas which can solve new problems so feel free to reach me on social networks.
+
+						<br />
+
+						<hr />
+						<footer>
+							<a href="https://twitter.com/itsmedurgesh" > <img src="assets/twitter.png"></a>
+							<a href="https://www.facebook.com/d.choudhary241"><img src="assets/facebook.png"></a>
+							<a href="https://www.quora.com/Durgesh-Choudhary"><img src="assets/quora.png"></a>
+							<a href="https://in.linkedin.com/in/durgeshchoudhary"><img src="assets/linkedin.png"></a>
+							
+						</footer>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Durgesh Choudhary</li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
+>>>>>>> 6ea551c8e6d7cafcabcf8a015aab77b83e591c62
+</html>
